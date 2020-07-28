@@ -1,6 +1,6 @@
-# 🌱🌿 Green Project Workshop and Micro-Hack ☘️🌳
+# Workshop Template for Microsoft Student Ambassador Leagues
 
-Would you like to try to create a project that has a 'carbon trigger'? A carbon trigger can be created by calling an API that calculates when the electricity production in your local area is the most 'green' - a great moment to run a dishwasher or a gas dryer. This repo contains instructions for a hackathon and workshop activity for students. There are also ['train-the-trainer' instructions](instructor_materials/README.md) for teachers, coaches, and instructors.
+Would you like to try to create a _describe project_? This repo contains instructions for a hackathon and workshop activity for students. There are also ['train-the-trainer' instructions](instructor_materials/README.md) for teachers, coaches, and instructors.
 
 ## Hackathon Instructions
 
