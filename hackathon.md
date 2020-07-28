@@ -6,36 +6,36 @@
 
 Want to hack using this content? Feel free!
 
-You can create a hackathon of any length building on Green Tech, but these instructions are for a two-hour Micro-Hack.
+You can create a hackathon of any length _describe length of workshop_
 
-### Current Hackathon: Green Forum Micro-Hack, July 16th, 2020 with Microsoft Interns and Student Ambassadors worldwide.
+### Hackathon Title and Date.
 
-### Schedule June 16 (all time zones PST - Pacific Standard Time)
+### Schedule _describe time zones_
 
-| Time          |                                                                                                                                         |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 11:00         | Introduction and welcome                                                                                                                |
-| 11:10 - 11:40 | Presentation by Asim Hussain, Cloud Developer Advocate, Green Team on Green Tech and how to be an environmentally responsible developer |
-| 11:40         | Code walk-through by Jen: building a Web App, and Azure Function, and a Logic App to construct a Carbon Trigger application             |
-| 12:00-12:45   | Live Hacking begins! Jen and Asim will live code something using a green API                                                            |
-| 12:45-1:00    | Q&A on Teams Live                                                                                                                       |
+| Time          |                          |
+| ------------- | ------------------------ |
+| 11:00         | Introduction and welcome |
+| 11:10 - 11:40 | Presentation             |
+| 11:40         | Code walk-through        |
+| 12:00-12:45   | Live Hacking begins!     |
+| 12:45-1:00    | Q&A on Teams Live        |
 |               |
 
 ### Team formation
 
-For this short micro-hack, you can form teams or work alone. Try to build some application in one hour using the APIs listed on the README. Post your results to #GreenHacks and you might win a prize!
+_describe how to form teams, and any prizes available_
 
 ### Project requirements
 
-This is a hackathon about green technologies, so feel free to use our suggested APIs, or use others you know of. The only requirement is that your hack has something to do with going green, being more ecologically-aware, reducing waste, or other environmentally-friendly helps. You can PR this repo to suggest other APIs or systems to use. Let's learn together!
+This is a hackathon about _describe requirements and prerequisites_
 
 ### Presentations and judging
 
-For this micro-hack, we'd like to showcase your work on Twitter. Please use the #GreenHacks hashtag and we will retweet particularly great hacks.
+_how judging will happen_
 
 #### Scoring
 
-We evaluate your projects based on the following rubric:
+We evaluate your projects based on the following rubric _edit this per your need_:
 
 -   Does the project address a clear need, problem, or opportunity, and is the solution clearly explained?
 -   Does the project include innovations in technical design or implementation of services or user experience?
@@ -44,21 +44,11 @@ We evaluate your projects based on the following rubric:
 
 ## Suggested Projects
 
-Create a web app that:
-
--   changes color according to the carbon intensity of your region
-
--   includes a running tally, updated hourly, with a chart of the carbon intensity of your region
-
--   tells you which of your appliances would be good to run at which hour
-
-Create a connection between an Azure Function using one of the APIs below to trigger a Logic App to do something like send a reminder to charge your EV
+_a list of suggested hacks_
 
 ### Useful APIs
 
-https://docs.co2signal.com/ by https://www.tmrow.com/ - get an API key quickly from this service
-
-https://www.watttime.org/
+_a list of useful APIs_
 
 ### Tips and tricks
 
