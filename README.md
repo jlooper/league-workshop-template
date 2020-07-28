@@ -4,7 +4,7 @@ Would you like to try to create a _describe project_? This repo contains instruc
 
 ## Hackathon Instructions
 
-If you're participating in a hackathon, [here](hackathon.md).
+If you're participating in a hackathon, go [here](hackathon.md).
 
 ## Workshop Instructions
 
